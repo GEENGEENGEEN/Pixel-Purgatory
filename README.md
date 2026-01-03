@@ -15,4 +15,5 @@ TECH STACK:
 Frontend Framework/Language: Pure JavaScript (ES5/ES6) with HTML5
 Graphics Rendering: WebGL combined with HTML5 Canvas
 Audio: jsfxr
-Build System: Python
+
+play it with >> doom.html
